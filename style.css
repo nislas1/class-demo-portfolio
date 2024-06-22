@@ -1,7 +1,5 @@
-}
-.card-987{
-  height:500px;
-}
+
+
 .card-title27{
   text-align:center;
   Font-size:80px;
@@ -11,3 +9,10 @@
   text-align:center;
   Font-size:20px;
 }
+
+/* Style the footer */
+footer {
+  background-color: #272626;
+  padding: 10px;
+  text-align: center;
+  color: rgb(255, 250, 250);}
